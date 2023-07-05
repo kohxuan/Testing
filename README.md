@@ -1,6 +1,6 @@
 ![NEW  Use Case Diagram-NewOverview](https://github.com/kohxuan/Testing/assets/128119778/469c36f8-254e-4c98-be2b-17d0d3739091)
 <details>
-<summary>Use Case Details</summary>
+<summary><h4> Use Case Details</h4></summary>
 <p align="left"> 
   
 ![NEW  Use Case Diagram-Module 1](https://github.com/kohxuan/Testing/assets/128119778/8d03fd5f-1053-43ee-8b78-dee82208d418)
@@ -11,4 +11,5 @@
 ![NEW  Use Case Diagram-Module 6](https://github.com/kohxuan/Testing/assets/128119778/77c5fce1-625f-435a-bf36-56d777927a40)
 ![NEW  Use Case Diagram-Module 7](https://github.com/kohxuan/Testing/assets/128119778/e2498d13-9760-4365-813b-e393f2ad0970)
 
+[Use Case Details](https://github.com/kohxuan/Testing/edit/main/README.md#-use-case-details)
 </p>
